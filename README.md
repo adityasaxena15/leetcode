@@ -48,4 +48,12 @@
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adityasaxena15/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
