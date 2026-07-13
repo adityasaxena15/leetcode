@@ -25,6 +25,7 @@
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adityasaxena15/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/adityasaxena15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -42,6 +43,7 @@
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adityasaxena15/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/adityasaxena15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -59,4 +61,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/adityasaxena15/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/adityasaxena15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
