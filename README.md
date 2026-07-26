@@ -11,6 +11,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/adityasaxena15/leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
