@@ -11,11 +11,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityasaxena15/leetcode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
