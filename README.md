@@ -87,6 +87,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -108,4 +109,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
