@@ -72,10 +72,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
