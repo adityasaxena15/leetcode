@@ -118,4 +118,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
