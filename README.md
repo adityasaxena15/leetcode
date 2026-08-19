@@ -88,6 +88,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/adityasaxena15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -96,6 +97,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
