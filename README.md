@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/adityasaxena15/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityasaxena15/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
@@ -83,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0206-reverse-linked-list) |
 ## Binary Search
