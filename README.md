@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/adityasaxena15/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasaxena15/leetcode/tree/master/0040-combination-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityasaxena15/leetcode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/adityasaxena15/leetcode/tree/master/0036-valid-sudoku) |
 ## Manacher
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/adityasaxena15/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
