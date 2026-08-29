@@ -28,10 +28,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adityasaxena15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -47,6 +49,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adityasaxena15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -60,6 +63,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adityasaxena15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
