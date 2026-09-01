@@ -140,6 +140,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 ## DP on Trees
 |  |
