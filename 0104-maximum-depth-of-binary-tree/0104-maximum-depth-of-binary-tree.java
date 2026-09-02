@@ -22,20 +22,15 @@ class Solution {
 
         public int solution(TreeNode node ){
 
-            
-             if (node == null) {
-        return 0;
-    }
+      if(node == null){
+        return 0 ;
+      }
 
-            int left = solution(node.left);
-            int right = solution(node.right);
-            
-                 return Math.max(left, right) + 1;
+      int left = solution(node.left);
+      int right = solution(node.right);
+      
+      return Math.max(left , right ) + 1;
+      }
         }
-    }
 
-
-
-          
-
-    
+      
