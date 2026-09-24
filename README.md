@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/adityasaxena15/leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityasaxena15/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
@@ -120,6 +121,7 @@
 | [0036-valid-sudoku](https://github.com/adityasaxena15/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasaxena15/leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/adityasaxena15/leetcode/tree/master/0053-maximum-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasaxena15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/adityasaxena15/leetcode/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
