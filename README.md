@@ -148,6 +148,7 @@
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adityasaxena15/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/adityasaxena15/leetcode/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/adityasaxena15/leetcode/tree/master/0052-n-queens-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/adityasaxena15/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
