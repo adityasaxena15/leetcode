@@ -26,6 +26,7 @@
 | [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityasaxena15/leetcode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityasaxena15/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/adityasaxena15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/adityasaxena15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adityasaxena15/leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasaxena15/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityasaxena15/leetcode/tree/master/0012-integer-to-roman) |
+| [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -186,4 +190,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/adityasaxena15/leetcode/tree/master/0052-n-queens-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
