@@ -28,6 +28,7 @@
 | [0010-regular-expression-matching](https://github.com/adityasaxena15/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityasaxena15/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/adityasaxena15/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityasaxena15/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
@@ -134,6 +135,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityasaxena15/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/adityasaxena15/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/adityasaxena15/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adityasaxena15/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
