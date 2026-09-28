@@ -17,6 +17,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityasaxena15/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasaxena15/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/adityasaxena15/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/adityasaxena15/leetcode/tree/master/0058-length-of-last-word) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/adityasaxena15/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/adityasaxena15/leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/adityasaxena15/leetcode/tree/master/0043-multiply-strings) |
 | [0096-unique-binary-search-trees](https://github.com/adityasaxena15/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -140,6 +142,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/adityasaxena15/leetcode/tree/master/0043-multiply-strings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
