@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/adityasaxena15/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/adityasaxena15/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityasaxena15/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/adityasaxena15/leetcode/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityasaxena15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityasaxena15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/adityasaxena15/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityasaxena15/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
